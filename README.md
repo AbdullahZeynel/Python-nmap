@@ -20,8 +20,8 @@ To get started with the Python Nmap Tool, follow these steps:
    Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/AbdullahZeynel/Python-nmap.git
+   cd Python-nmap
    ```
 
 2. **Create and Activate a Virtual Environment**
